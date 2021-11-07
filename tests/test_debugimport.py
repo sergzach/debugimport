@@ -171,7 +171,7 @@ class TestDebugImport:
         is 'imported'.
         """
         test_output = self._execute_test_code(is_debug=True)
-        assert test_output == b'imported2'
+        assert test_output == b'imported'
 
     def test_prod(self):
         """
