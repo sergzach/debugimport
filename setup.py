@@ -5,7 +5,7 @@ setup(
     name='debugimport',        
     version='0.1.0',        
     description='A library to import a module or a package from source '
-        '`python` code when `debug=True` or import normally otherwise.'
+        '`python` code when `debug=True` or import normally otherwise.',
     author='Sergey Zakharov',
     author_email='sergzach@gmail.com',
     packages=['debugimport'],
